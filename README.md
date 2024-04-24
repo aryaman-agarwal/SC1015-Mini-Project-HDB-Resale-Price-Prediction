@@ -3,7 +3,7 @@
 SC1015: Data Science and Artfifcal Intelligence\
 Mini Project: Singapore HDB Resale Price Prediction\
 Lab: FCSA\
-Group : 2\
+Group : 2
 
 Members:
 
