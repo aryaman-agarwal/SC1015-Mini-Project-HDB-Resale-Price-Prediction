@@ -11,6 +11,8 @@ Contributors:
 2. Batra Sia ([@siabatra](https://github.com/siabatra)) - Random Forest, Decision Tree
 3. Agarwala Grisha ([@grishaag18](https://github.com/grishaag18))- EDA, XGBoost, Slides Preparation
 
+Video voiceover by all contributors.
+
 ### Project Overview
 This project aims to predict HDB flat resale prices in Singapore. It leverages machine learning to enhance transparency and efficiency in the public housing marketplace.
 
