@@ -10,12 +10,43 @@ Members:
 1. Agarwal Aryaman ([@aryaman-agarwal](https://github.com/aryaman-agarwal))
 2. Batra Sia ([@siabatra](https://github.com/siabatra))
 3. Agarwala Grisha ([@grishaag18](https://github.com/grishaag18))
-### Data used:
-This dataset is from the Singapore Public Housing Data from Kaggle. It is exceptionally detailed with over 70 columns of different features relating to the parameters of the resale flat.
 
-For the purpose of the analysis, we are provided with the `train` and `test` datasets. The `train` dataset contains the resale price of the flats and their relevant information from 2012 to 2021. `train` datasets will be use model building purposes. Information found in the `test` datasets contains the same fields as those found in the `train` dataset, except for the resale prices. Resales prices will be predicted using the trained model
+### Project Overview
+This project aims to predict HDB flat resale prices in Singapore. It leverages machine learning to enhance transparency and efficiency in the public housing marketplace.
 
-Information found in the `train` datasets includes information such as resale prices, planning_area, flat_model, hdb_age, full_flat_type, mrt_nearest_distance, hawker_nearest_distance and pri_sch_nearest_distance and so on.
+### Problem Statement
+The primary challenge is to provide a predictive model for HDB flat resale prices, empowering both buyers and sellers with better decision-making tools.
+
+### Dataset Description
+The dataset covers HDB resale data from 2012 to 2021, including 78 features for each unit, sourced from the Singapore Public Housing Dataset on Kaggle.
+
+### Data Preparation and Preprocessing
+- **Standardization:** Conversion of all column names to lowercase, formatted to snake case.
+- **Cleaning:** Removal of non-essential columns and application of `SimpleImputer` for missing data.
+- **Feature Engineering:** Addition of new fields like `mall_nearest_distance` for enhanced spatial analysis.
+
+### Exploratory Data Analysis
+- **Price Trends:** Analysis shows a concentration of transactions within the SGD 200,000 to SGD 400,000 range.
+- **Geospatial Analysis:** Heatmaps highlight areas with higher resale prices.
+- **Correlation Matrix:** Strong positive correlation between `floor_area_sqm` and `resale_price`.
+
+### Machine Learning Models
+1. **Linear Regression**
+   - Trained with scikit-learn’s LinearRegression; R² score of 0.988 on training data.
+2. **Decision Trees**
+   - Configured with a depth of 5; R² score shows strong fit to data.
+3. **Random Forest**
+   - Utilizes 100 trees with optimized hyperparameters; robust against overfitting.
+4. **XGBoost**
+   - Employs DMatrix for faster computation; finely tuned for optimal performance.
+
+### Model Evaluation
+- **Performance:** XGBoost achieved the highest R² score of 0.999, indicating excellent predictive accuracy.
+- **Comparison:** All models were compared, showcasing XGBoost as the superior choice for this dataset.
+
+### Conclusion
+The models developed offer a robust framework for predicting HDB resale prices, providing valuable insights for market participants and policymakers.
+
 
 ---
 
