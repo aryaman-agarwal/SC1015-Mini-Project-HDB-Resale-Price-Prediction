@@ -150,8 +150,8 @@ Overall, this project provided valuable hands-on experience in all stages of the
 ___
 ### References
 
-https://www.kaggle.com/competitions/dsi-sg-project-2-regression-challenge-hdb-price
-https://medium.com/analytics-vidhya/singapore-housing-prices-ml-prediction-analyse-singapores-property-price-part-iii-bd9438077423
-https://medium.com/@hargobind/not-your-average-hdb-resale-price-predictor-a0ea0c1fa6c2
-https://www.analyticsvidhya.com/blog/2018/09/an-end-to-end-guide-to-understand-the-math-behind-xgboost/
-https://medium.com/@adityagofi/predicting-house-prices-with-xgboost-a-machine-learning-journey-b8ed827cd05f
+https://www.kaggle.com/competitions/dsi-sg-project-2-regression-challenge-hdb-price \
+https://medium.com/analytics-vidhya/singapore-housing-prices-ml-prediction-analyse-singapores-property-price-part-iii-bd9438077423 \
+https://medium.com/@hargobind/not-your-average-hdb-resale-price-predictor-a0ea0c1fa6c2 \
+https://www.analyticsvidhya.com/blog/2018/09/an-end-to-end-guide-to-understand-the-math-behind-xgboost/ \
+https://medium.com/@adityagofi/predicting-house-prices-with-xgboost-a-machine-learning-journey-b8ed827cd05f 
