@@ -7,9 +7,9 @@ Group : 2
 
 Contributors:
 
-1. Agarwal Aryaman ([@aryaman-agarwal](https://github.com/aryaman-agarwal)) - Data procurement, preprocessing and cleaning, EDA, Video
-2. Batra Sia ([@siabatra](https://github.com/siabatra)) - Random Forest, Decision Tree, Video
-3. Agarwala Grisha ([@grishaag18](https://github.com/grishaag18))- EDA, XGBoost, Slides Preparation, Video
+1. Agarwal Aryaman ([@aryaman-agarwal](https://github.com/aryaman-agarwal)) - Data procurement, preprocessing, and cleaning, Linear regression, EDA
+2. Batra Sia ([@siabatra](https://github.com/siabatra)) - Random Forest, Decision Tree
+3. Agarwala Grisha ([@grishaag18](https://github.com/grishaag18))- EDA, XGBoost, Slides Preparation
 
 ### Project Overview
 This project aims to predict HDB flat resale prices in Singapore. It leverages machine learning to enhance transparency and efficiency in the public housing marketplace.
