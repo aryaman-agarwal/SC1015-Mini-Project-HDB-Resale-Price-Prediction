@@ -5,11 +5,11 @@ Mini Project: Singapore HDB Resale Price Prediction\
 Lab: FCSA\
 Group : 2
 
-Members:
+Contributors:
 
-1. Agarwal Aryaman ([@aryaman-agarwal](https://github.com/aryaman-agarwal))
-2. Batra Sia ([@siabatra](https://github.com/siabatra))
-3. Agarwala Grisha ([@grishaag18](https://github.com/grishaag18))
+1. Agarwal Aryaman ([@aryaman-agarwal](https://github.com/aryaman-agarwal)) - Data procurement, preprocessing and cleaning, EDA, Video
+2. Batra Sia ([@siabatra](https://github.com/siabatra)) - Random Forest, Decision Tree, Video
+3. Agarwala Grisha ([@grishaag18](https://github.com/grishaag18))- EDA, XGBoost, Slides Preparation, Video
 
 ### Project Overview
 This project aims to predict HDB flat resale prices in Singapore. It leverages machine learning to enhance transparency and efficiency in the public housing marketplace.
@@ -144,3 +144,5 @@ What did we learn from this project?
 3. Effectiveness of Machine Learning Algorithms: We experimented with various machine learning algorithms such as linear regression, decision trees, random forests, and extreme gradient boosting (XGBoost). We learned which algorithms performed best for our specific prediction task and why.
 
 Overall, this project provided valuable hands-on experience in all stages of the data science pipeline.
+
+___
