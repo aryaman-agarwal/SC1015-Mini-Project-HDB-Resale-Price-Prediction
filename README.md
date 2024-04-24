@@ -137,4 +137,10 @@ The models developed offer a robust framework for predicting HDB resale prices, 
 
 ---
 
-REFERENCES
+What did we learn from this project?
+
+Data Quality Matters: The quality of the data significantly affected the performance of our predictive model. Cleaning the data and handling missing values were crucial steps in improving model accuracy.
+Understanding Through EDA: Exploratory Data Analysis (EDA) helped us gain insights into the relationships between different features and the target variable. Visualizations and statistical summaries guided feature selection and model building.
+Effectiveness of Machine Learning Algorithms: We experimented with various machine learning algorithms such as linear regression, decision trees, random forests, and extreme gradient boosting (XGBoost). We learned which algorithms performed best for our specific prediction task and why.
+
+Overall, this project provided valuable hands-on experience in all stages of the data science pipeline.
