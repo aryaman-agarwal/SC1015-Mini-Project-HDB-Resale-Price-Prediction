@@ -7,9 +7,9 @@ Group : 2
 
 Members:
 
-Agarwal Aryaman (@aryaman-agarwal)
-Batra Sia (@Siabatra)
-Agarwala Grisha (@grishaag18)
+1. Agarwal Aryaman ([@aryaman-agarwal](https://github.com/aryaman-agarwal))
+2. Batra Sia ([@siabatra](https://github.com/siabatra))
+3. Agarwala Grisha ([@grishaag18](https://github.com/grishaag18))
 ### Data used:
 This dataset is from the Singapore Public Housing Data from Kaggle. It is exceptionally detailed with over 70 columns of different features relating to the parameters of the resale flat.
 
