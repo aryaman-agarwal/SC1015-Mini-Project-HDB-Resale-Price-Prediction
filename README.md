@@ -5,7 +5,7 @@ Mini Project: Singapore HDB Resale Price Prediction\
 Lab: FCSA\
 Group : 2
 
-Contributors:
+### Contributors:
 
 1. Agarwal Aryaman ([@aryaman-agarwal](https://github.com/aryaman-agarwal)) - Data procurement, preprocessing, and cleaning, Linear regression, EDA
 2. Batra Sia ([@siabatra](https://github.com/siabatra)) - Random Forest, Decision Tree
@@ -139,7 +139,7 @@ The models developed offer a robust framework for predicting HDB resale prices, 
 
 ---
 
-What did we learn from this project?
+### What did we learn from this project?
 
 1. Data Quality Matters: The quality of the data significantly affected the performance of our predictive model. Cleaning the data and handling missing values were crucial steps in improving model accuracy.
 2. Understanding Through EDA: Exploratory Data Analysis (EDA) helped us gain insights into the relationships between different features and the target variable. Visualizations and statistical summaries guided feature selection and model building.
