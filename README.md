@@ -16,7 +16,7 @@ Video voiceover by all contributors.
 ### Project Overview
 This project aims to predict HDB flat resale prices in Singapore. It leverages machine learning to enhance transparency and efficiency in the public housing marketplace.
 
-Here are our [slides](https://github.com/aryaman-agarwal/SC1015-Mini-Project-HDB-Resale-Price-Prediction/blob/main/housing-price-prediction-presentation.pdf) and [video]([https://www.youtube.com/watch?v=1NE82i3MVQQ](https://youtu.be/hMoj9-z-duI?si=ktcPa0x03BUcMauv)).
+Here are our [slides](https://github.com/aryaman-agarwal/SC1015-Mini-Project-HDB-Resale-Price-Prediction/blob/main/housing-price-prediction-presentation.pdf) and [video](https://youtu.be/hMoj9-z-duI?si=ktcPa0x03BUcMauv).
 ### Problem Statement
 The primary challenge is to provide a predictive model for HDB flat resale prices, empowering both buyers and sellers with better decision-making tools.
 
